@@ -1,0 +1,28 @@
+{
+  "name": "revelio-publisher",
+  "version": "0.3.0",
+  "description": "Internal component for Revelio publishing tools",
+  "main": "lib/publisher.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revelio/revelio-publisher.git"
+  },
+  "author": "Revelio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revelio/revelio-publisher/issues"
+  },
+  "homepage": "https://github.com/revelio/revelio-publisher#readme",
+  "dependencies": {
+    "bluebird": "^3.1.5",
+    "http-client-factory": "^0.2.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "assertchain-jasmine": "~0.1.0",
+    "proxyquire": "^1.7.3"
+  }
+}
