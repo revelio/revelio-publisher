@@ -1,6 +1,6 @@
 {
   "name": "revelio-publisher",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Internal component for Revelio publishing tools",
   "main": "lib/publisher.js",
   "scripts": {
